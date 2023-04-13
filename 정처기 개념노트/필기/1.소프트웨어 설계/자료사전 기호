@@ -1,0 +1,8 @@
+자료사전 기호
+
+= 	정의(is composed of)
++	구성(and, along with)
+{ }	반복(iteration)
+[ ]	선택(selection)
+( )	생략가능(optional)
+**	주석(comment)
