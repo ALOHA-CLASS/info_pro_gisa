@@ -1,0 +1,12 @@
+
+White Box Testing 종류
+- Condition Testing
+- Loop Testing
+- Data Flow Testing
+
+Black Box Testing 종류
+- Equivalence Partitioning Testing
+- Boundary Value Testing
+- Cause-Effect Graphing Testing
+- Error Guessing
+- Comparison Testing

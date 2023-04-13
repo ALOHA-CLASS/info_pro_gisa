@@ -1,0 +1,5 @@
+HIPO(Hierarchy Input Process Output)
+
+- 하향식 개발을 위한 시스템 설계 및 문서화 도구
+- 가시적 도표(Virtual Table of Contents), 총체적 도표(Overview Diagram), 세부적 도표(Detail Diagram)으로 구성
+- HIPO 다이어그램은 분석 및 설계 도구로 사용합니다.

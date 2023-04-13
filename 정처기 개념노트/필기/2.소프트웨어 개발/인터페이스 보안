@@ -1,0 +1,18 @@
+인터페이스 보안은 컴퓨터 네트워크에서 정보를 안전하게 전송하기 위해 사용되는 다양한 기술을 포함합니다. 
+그 중에서도 IPSec, SSL, S-HTTP은 대표적인 기술입니다.
+
+- IPSec (Internet Protocol Security)
+IP 네트워크 상에서 데이터 전송의 보안성을 제공하기 위한 프로토콜입니다.
+IPSec은 인증(Authentication), 기밀성(Confidentiality), 무결성(Integrity)을 보장하여 데이터를 안전하게 전송합니다.
+보통 VPN(Virtual Private Network) 구성 등에서 사용됩니다.
+
+- SSL (Secure Sockets Layer) / TLS (Transport Layer Security)
+웹 브라우저와 웹 서버 간의 통신 보안을 위한 프로토콜입니다.
+SSL/TLS는 인증서를 통해 서버 인증과 암호화를 제공하여, 제3자로부터의 중간자 공격(MITM)을 막습니다.
+대부분의 인터넷 사이트에서 HTTPS(Hypertext Transfer Protocol Secure)로 알려진 SSL/TLS를 사용하여 보안된 통신을 제공합니다.
+
+- S-HTTP (Secure Hypertext Transfer Protocol)
+SSL/TLS와 마찬가지로 웹 브라우저와 웹 서버 간의 통신 보안을 위한 프로토콜입니다.
+S-HTTP는 SSL/TLS와 달리, 전송되는 개별 HTTP 요청과 응답마다 암호화를 수행합니다.
+그러나 SSL/TLS가 보다 널리 사용되어 S-HTTP는 거의 사용되지 않습니다.
+위와 같은 인터페이스 보안 기술들은 데이터 전송의 안전성을 보장하고, 민감한 정보가 전송되는 경우 보안 위협으로부터 데이터를 보호하는 데 중요한 역할을 합니다.
